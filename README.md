@@ -4,25 +4,25 @@ This GitHub repository contains the code for a responsive food restaurant webpag
 
 File Structure
 
-|-- food.html # Main HTML file
+|-- index.html # Main HTML file
 
-|-- food.css # CSS styles
+|-- style.css # CSS styles
 
-|-- food.js # JavaScript file for interactivity
+|-- script.js # JavaScript file for interactivity
 
 |-- Food images/ # Folder containing images
 
 |-- Screenshots/ # Folder containing screenshots of project
 
-HTML (food.html)
+HTML (index.html)
 
 The index.html file is the main HTML file that structures the webpage. It includes sections for the header, menu, about, contact, and footer. Utilizes semantic HTML elements for better accessibility and readability.
 
-CSS (food.css)
+CSS (style.css)
 
 The styles.css file contains the CSS styles for the webpage. It utilizes responsive design techniques using media queries to adjust the layout and styling based on the device's screen size. The CSS styles are organized to maintain consistency and enhance the visual appeal of the webpage.
 
-JavaScript (food.js)
+JavaScript (script.js)
 
 The script.js file contains JavaScript code to enhance the webpage's interactivity. It may include functions for menu toggling, form validation, or any other client-side functionality to improve user experience.
 
